@@ -1,1 +1,1 @@
-Assembling and save output
+creats a C file and execurable name
