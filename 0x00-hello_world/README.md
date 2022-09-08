@@ -1,1 +1,1 @@
-creats a C file and execurable name
+Using puts to print out put
