@@ -1,1 +1,1 @@
-print Capital Letters
+prints the alphabet in lowercase
