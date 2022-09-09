@@ -1,1 +1,1 @@
-using putchar
+print Capital Letters
