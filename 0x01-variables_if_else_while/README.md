@@ -1,1 +1,1 @@
-prints all possible combination
+combination od two digits
