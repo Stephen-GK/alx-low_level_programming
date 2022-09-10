@@ -1,1 +1,1 @@
-Lowercase alphabet in reverse
+prints all number of base 10 in lowcase
