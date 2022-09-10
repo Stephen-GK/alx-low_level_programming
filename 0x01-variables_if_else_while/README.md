@@ -1,1 +1,1 @@
-prints all single dights number of base 10
+prints single digitof base 10
