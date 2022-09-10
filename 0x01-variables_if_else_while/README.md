@@ -1,1 +1,1 @@
-prints the alphabet in lowercase
+prints all single dights number of base 10
