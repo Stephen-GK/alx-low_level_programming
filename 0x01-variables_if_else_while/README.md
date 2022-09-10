@@ -1,1 +1,1 @@
-prints single digitof base 10
+Lowercase alphabet in reverse
